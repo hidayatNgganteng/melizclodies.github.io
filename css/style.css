@@ -27,6 +27,11 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
 
+.meliz-logo{
+  width: 150px;
+  height: auto;
+}
+
 .border-2 {
   border-width: 2px; }
 
@@ -1812,7 +1817,7 @@ figure figcaption {
   position: relative;
   display: inline-block;
   margin-bottom: 20px; }
-  .paws:before, .paws:after {
+  /* .paws:before, .paws:after {
     position: absolute;
     content: "";
     font-family: 'icomoon';
@@ -1830,7 +1835,7 @@ figure figcaption {
     right: -30px;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
-    transform: rotate(45deg); }
+    transform: rotate(45deg); } */
   .paws > span {
     color: #a2c0be;
     font-size: 2rem; }
